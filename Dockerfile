@@ -1,4 +1,4 @@
-FROM ubuntu:20.04
+FROM ubuntu
 LABEL maintainer="admin@luchenyang.xyz"
 LABEL description="Ubuntu Systemed"
 LABEL version="1.0"
