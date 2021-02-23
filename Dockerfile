@@ -13,4 +13,4 @@ WORKDIR /root
 
 RUN apt-get autoremove -y
 
-ENTRYPOINT ["/sbin/init"]
+CMD /sbin/init
